@@ -1,3 +1,4 @@
+//Punya gaby
 // Menetapkan variabel dark
 let dark = localStorage.getItem('dark')
 // Menentukan variabel darkmode dengan tombol dengan id ‘darkmode’
